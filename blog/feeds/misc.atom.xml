@@ -1,17 +1,340 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-07T16:10:58+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="./w6_40923205.html" rel="alternate"></link><published>2022-03-30T14:30:00+08:00</published><updated>2022-04-07T15:04:04+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-03-30:./w6_40923205.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-11T21:21:07+08:00</updated><entry><title>W10</title><link href="./w10_40923205.html" rel="alternate"></link><published>2022-04-21T14:30:00+08:00</published><updated>2022-05-11T21:21:07+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-04-21:./w10_40923205.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 
-&lt;h2&gt;40923205&lt;/h2&gt;
-&lt;p&gt;Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI&lt;/p&gt;
-&lt;p&gt;Python 可以用來開發網際版的內容管理系統 CMSiMDE&lt;/p&gt;
-&lt;p&gt;Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統&lt;/p&gt;
-&lt;p&gt;Python 可以用於機器學習 Keras, Pytorch&lt;/p&gt;
-&lt;h2&gt;Flutter&lt;/h2&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-03-30T14:30:00+08:00</published><updated>2022-04-07T16:10:58+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-03-30:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+&lt;h3&gt;w10_block_ui&lt;/h3&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/w10_block_ui.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;w10_ssh&lt;/h3&gt;
+&lt;p&gt;ssh video&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/w10ssh.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./w8_40923205.html" rel="alternate"></link><published>2022-04-14T14:30:00+08:00</published><updated>2022-05-11T21:21:07+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-04-14:./w8_40923205.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
 
 
-&lt;p&gt;分配繪圖軟體將 MTB robot 繪製出來&lt;/p&gt;
-&lt;p&gt;w7工作分配:&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
+&lt;p&gt;&lt;span&gt;分別以 Solvespace, NX (12, 1980 或 2008) 及 Onshape, 完成各零件&lt;/span&gt;&lt;span&gt;工程圖&lt;/span&gt;&lt;span&gt;與&lt;/span&gt;&lt;span&gt;組合圖&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/w8drawing.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923205.html" rel="alternate"></link><published>2022-03-30T14:30:00+08:00</published><updated>2022-05-11T21:21:07+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-03-30:./w6_40923205.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+
+
+&lt;p&gt;建blog&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/creat cd2022bg1 blog.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W7</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-03-30T14:30:00+08:00</published><updated>2022-05-11T21:21:07+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-03-30:./w7_summary.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+
+
+&lt;p&gt;w7_summy link:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40923205.github.io/cd2022/blog/w7_summary.html"&gt;https://40923205.github.io/cd2022/blog/w7_summary.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;利用隨身程式系統編譯&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecourse/scarysim"&gt;https://github.com/mdecourse/scarysim&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中的 SCARA robot 模擬系統. 完成此 Qt C++ 程式碼的編譯與操作後, 接著請完成 CoppeliaSim 範例中&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://github.com/CoppeliaRobotics/models/blob/master/robots/non-mobile/MTB%20robot.ttm"&gt;MTB robot&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所進行的&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="https://www.youtube.com/results?search_query=mtb+robot"&gt;Pick and Place demo&lt;/a&gt;&lt;span&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;設法以隨身程式系統編譯此程式碼:&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;git clone&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecourse/scarysim.git"&gt;https://github.com/mdecourse/scarysim.git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修改 scarysim.pro, 蓋掉第 11 行, 成為 # LIBS&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; += -lglut -lGLU&lt;/li&gt;
+&lt;li&gt;cd scarysim&lt;/li&gt;
+&lt;li&gt;qmake -o Makefile scarysim.pro&lt;/li&gt;
+&lt;li&gt;mingw32-make -f Makefile.Release 可以在 release 目錄取得 scarysim.exe&lt;/li&gt;
+&lt;li&gt;因為 scarysim.exe 執行需要 base.obj, arm1.obj, arm2.obj, arm3.obj 等零件外型檔案, 以及對應的 .mtl 材質檔案, 因此可將 scarysim.exe 移至倉儲根目錄, 並且需要 msys64_20210419\mingw64\bin 路徑中的 dll 動態連結程式庫配合執行.&lt;/li&gt;
+&lt;li&gt;由於此套程式碼在 Target 模式下, 零組件間會造成干涉, 表示其 Inverse Kinematic 運算並不正確, 請設法修正此錯誤後, 修改其零件尺寸與操作控制方法, 設法模擬 MTB 的&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://www.youtube.com/results?search_query=mtb+robot"&gt;Pick and Place demo&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;範例.&lt;/li&gt;
+&lt;li&gt;請各組指定組員分別利用 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://www.youtube.com/results?search_query=mtb+robot"&gt;Pick and Place demo&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;範例所需的零組件, 並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬, 完成後請說明在使用不同 MCAD 系統與版次的情況下, 該如何執行協同產品設計專案.&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W3</title><link href="./w3_40923205.html" rel="alternate"></link><published>2022-03-10T14:30:00+08:00</published><updated>2022-05-11T21:20:54+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-03-10:./w3_40923205.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+
+
+&lt;p&gt;06.&lt;yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""&gt;TECH 4472 - Homework 3A - Expressions&lt;/yt-formatted-string&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;設定代號數值完成平面圖&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/6.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;07.TECH 4472 - Homework 03B - Expressions (Continued)&lt;/p&gt;
+&lt;p&gt;設定數據、公式及查看截面數據表&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/7.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;08.TECH 4472 Homework 4 - AC Connector Nut&lt;/p&gt;
+&lt;p&gt;繪製螺母&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/8.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;09.TECH 4472 Homework 5A - Box&lt;/p&gt;
+&lt;p&gt;利用參數設定寬及高繪出箱子&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/9.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;-----------------------------------------&lt;/p&gt;
+&lt;p&gt;10.TECH 4472 Homework 5B - Master Model Drawing&lt;/p&gt;
+&lt;p&gt;放置三視圖、標示標註及公差值、註解&lt;/p&gt;
+&lt;script&gt;// &lt;![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]&gt;&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="1008" height="630" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/10.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W2</title><link href="./w2_40923205.html" rel="alternate"></link><published>2022-03-03T14:30:00+08:00</published><updated>2022-05-11T21:20:54+08:00</updated><author><name>40923205</name></author><id>tag:None,2022-03-03:./w2_40923205.html</id><summary type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2022-Spring-CD&lt;/p&gt;
+
+
+&lt;h4&gt;&lt;span&gt;第一組&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;倉儲: &lt;a href="https://github.com/40923205/cd2022bg1"&gt;cd2022bg1&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span&gt;網頁: &lt;a href="https://40923205.github.io/cd2022bg1/content/index.html"&gt;cd2022bg1&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;組員:&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;網頁&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923205/cd2022"&gt;40923205&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="https://40923205.github.io/cd2022/content/index.html"&gt;40923205&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923201/cd2022"&gt;40923201&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923201.github.io/cd2022/content/index.html"&gt;40923201&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/nfu40923208/cd2022"&gt;40923208&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://nfu40923208.github.io/cd2022/content/index.html"&gt;40923208&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923210/cd2022"&gt;40923210&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923210.github.io/cd2022/content/index.html"&gt;40923210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923217/cd2022"&gt;40923217&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923217.github.io/cd2022/content/index.html"&gt;40923217&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923230/cd2022"&gt;40923230&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923230.github.io/cd2022/content/index.html"&gt;40923230&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923231/cd2022"&gt;40923231&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923231.github.io/cd2022/content/index.html"&gt;40923231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923235/cd2022"&gt;40923235&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923235.github.io/cd2022/content/index.html"&gt;40923235&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;br&gt;第二組&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;倉儲:&amp;nbsp;cd2022bg2&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span&gt;網頁:&lt;span&gt;&amp;nbsp;cd2022bg2&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;組員:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;網頁&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/40923240/cd2022"&gt;40923240&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923240.github.io/cd2022/content/index.html"&gt;40923240&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/40823215/cd2022"&gt;40823215&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40823215.github.io/cd2022/content/index.html"&gt;40923215&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/youshin40923203/cd2022"&gt;40923203&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://youshin40923203.github.io/cd2022/content/index.html"&gt;40923203&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/40923204/cd2022"&gt;40923204&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923204.github.io/cd2022/content/index.html"&gt;40923204&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/40923207/cd2022"&gt;40923207&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923207.github.io/cd2022/content/index.html"&gt;40923207&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/nfu40923209/cd2022"&gt;40923209&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://nfu40923209.github.io/cd2022/content/index.html"&gt;40923209&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/40923213/cd2022"&gt;40923213&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923213.github.io/cd2022/content/index.html"&gt;40923213&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;a href="https://github.com/40923220/cd2022"&gt;40923220&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923220.github.io/cd2022/content/index.html"&gt;40923220&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;第三組&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;倉儲:&amp;nbsp;cd2022bg3&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span&gt;網頁:&lt;span&gt;&amp;nbsp;cd2022bg3&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;組員:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;網頁&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923252/cd2022"&gt;40923252&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923252.github.io/cd2022/content/index.html"&gt;40923252&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923206-1/cd2022"&gt;40923206&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &lt;a href="https://40923206-1.github.io/cd2022/content/index.html"&gt;40923206&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/s40923224/cd2022"&gt;40923224&lt;/a&gt; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &lt;a href="https://s40923224.github.io/cd2022/content/index.html"&gt;40923224&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923226/cd2022"&gt;40923226&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="https://40923226.github.io/cd2022/content/index.html"&gt;40923226&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923242/cd2022"&gt;40923242&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="https://40923242.github.io/cd2022/content/index.html"&gt;40923242&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923245-1/cd2022"&gt;40923245&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;a href="https://40923245-1.github.io/cd2022/content/index.html"&gt;40923245&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923247/cd2022"&gt;40923247&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="https://40923247.github.io/cd2022/content/index.html"&gt;40923247&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;a href="https://github.com/40923249-1/cd2022"&gt;40923249&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;a href="https://40923249-1.github.io/cd2022/content/index.html"&gt;40923249&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;第四組&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;倉儲:&amp;nbsp;cd2022bg4&amp;nbsp; &amp;nbsp; &amp;nbsp;網頁:&amp;nbsp;cd2022bg4&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;組員:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;網頁&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;a href="https://github.com/40923227/cd2022"&gt;40923227&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923227.github.io/cd2022/content/index.html"&gt;40923227&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/a40923211/cd2022"&gt;40923211&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://a40923211.github.io/cd2022/content/index.html"&gt;40923211&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923218/cd2022"&gt;40923218&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923218.github.io/cd2022/content/index.html"&gt;40923218&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923221/cd2022"&gt;40923221&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923221.github.io/cd2022/content/index.html"&gt;40923221&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923223/cd2022"&gt;40923223&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923223.github.io/cd2022/content/index.html"&gt;40923223&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923243/cd2022"&gt;40923243&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923243.github.io/cd2022/content/index.html"&gt;40923243&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;第五組&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;倉儲:&amp;nbsp;cd2022bg5&amp;nbsp; &amp;nbsp; &amp;nbsp;網頁:&amp;nbsp;cd2022bg5&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;組員:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;網頁&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;a href="https://github.com/40923251/cd2022"&gt;40923251&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923251.github.io/cd2022/content/index.html"&gt;40923251&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923212/cd2022"&gt;40923212&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923212.github.io/cd2022/content/index.html"&gt;40923212&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923229/cd2022"&gt;40923229&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923229.github.io/cd2022/content/index.html"&gt;40923229&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923233/cd2022"&gt;40923233&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923233.github.io/cd2022/content/index.html"&gt;40923233&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923234/cd2022"&gt;40923234&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923234.github.io/cd2022/content/index.html"&gt;40923234&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923237/cd2022"&gt;40923237&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923237.github.io/cd2022/content/index.html"&gt;40923237&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923253/cd2022"&gt;40923253&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923253.github.io/cd2022/content/index.html"&gt;40923253&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40971220/cd2022"&gt;40971220&lt;/a&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40971220.github.io/cd2022/content/index.html"&gt;40971220&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;第六組&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;倉儲:&amp;nbsp;cd2022bg6&amp;nbsp; &amp;nbsp; &amp;nbsp;網頁:&amp;nbsp;cd2022bg6&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;組員:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span&gt;網頁&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;a href="https://github.com/40723217/cd2022"&gt;40723217&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40723217.github.io/cd2022/content/index.html"&gt;40723217&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/nfu40923219/cd2022"&gt;40923219&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;a href="https://nfu40923219.github.io/cd2022/content/index.html"&gt;&lt;span&gt;40923219&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923225/cd2022"&gt;40923225&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923225.github.io/cd2022/content/index.html"&gt;40923225&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923232/cd2022"&gt;40923232&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923232.github.io/cd2022/content/index.html"&gt;40923232&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923236/cd2022"&gt;40923236&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923236.github.io/cd2022/content/index.html"&gt;40923236&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923241/cd2022"&gt;40923241&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923241.github.io/cd2022/content/index.html"&gt;40923241&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923246/cd2022"&gt;40923246&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923246.github.io/cd2022/content/index.html"&gt;40923246&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923250/cd2022"&gt;40923250&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923250.github.io/cd2022/content/index.html"&gt;40923250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;第七組&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;span&gt;倉儲:&amp;nbsp;cd2022bg7&amp;nbsp; &amp;nbsp; &amp;nbsp;網頁:&amp;nbsp;cd2022bg7&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;&lt;span&gt;組員:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;倉儲&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;網頁&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;a href="https://github.com/40723134/cd2022"&gt;40723134&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40723134.github.io/cd2022/content/index.html"&gt;40723134&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40723136/cd2022"&gt;40723136&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://s40723136.github.io/cd2022/content/index.html"&gt;40723136&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40732331/cd2022"&gt;40723231&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40732331.github.io/cd2022/content/index.html"&gt;40723231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923214/cd2022"&gt;40923214&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923214.github.io/cd2022/content/index.html"&gt;40923214&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923216/cd2022"&gt;40923216&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923216.github.io/cd2022/content/index.html"&gt;40923216&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923228/cd2022"&gt;40923228&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923228.github.io/cd2022/content/index.html"&gt;40923228&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923238/cd2022"&gt;40923238&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923238.github.io/cd2022/content/index.html"&gt;40923238&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/40923248/cd2022"&gt;40923248&lt;/a&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;a href="https://40923248.github.io/cd2022/content/index.html"&gt;40923248&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
